@@ -1,0 +1,32 @@
+aid: full-contact
+name: Full Contact
+description: "Get Social Media profiles and contact Information"
+url: https://docs.fullcontact.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Social"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Social
+  - Public APIs
+apis:
+  - name: Full Contact
+    description: "Get Social Media profiles and contact Information"
+    humanURL: https://docs.fullcontact.com/
+    baseURL: https://docs.fullcontact.com/
+    tags:
+      - Social
+    properties:
+      - type: Documentation
+        url: https://docs.fullcontact.com/
+common:
+  - type: Website
+    url: https://docs.fullcontact.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
