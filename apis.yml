@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://docs.fullcontact.com/
 common:
+  - type: DomainSecurity
+    url: security/full-contact-domain-security.yml
   - type: Website
     url: https://docs.fullcontact.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.fullcontact.com/blog/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
